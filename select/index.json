@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Dirty Harry",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-03-19T10:29:19.830948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/01_Dirty_Harry_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirty Harry (Single Edit)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/02_Dirty_Harry_(Single_Edit)_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirty Harry - Schtung Chinese New Year Remix",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/03_Dirty_Harry_-_Schtung_Chinese_New_Year_Remix_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Harry (feat. Bootie Brown)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/04_Dirty_Harry_(feat._Bootie_Brown)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Harry (Schtung Chinese New Year Remix)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/05_Dirty_Harry_(Schtung_Chinese_New_Year_Remix)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz feat. Bootie Brown",
+      "has_synced": true,
+      "path": "select/06_Dirty_Harry_Gorillaz_feat._Bootie_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/07_Dirty_Harry_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dirty Harry (iTunes Session)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/08_Dirty_Harry_(iTunes_Session)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dirty Harry (Chopper Remix)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/09_Dirty_Harry_(Chopper_Remix)_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dirty Harry (feat. Rj Payne & Conway the Machine)",
+      "artist": "Benny The Butcher feat. RJ Payne & Conway the Machine",
+      "has_synced": true,
+      "path": "select/10_Dirty_Harry_(feat._Rj_Payne_&_Conway_the_Machine)_Benny_The_Butcher_feat._RJ_Payne_&_Conway_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dirty Harry (feat. RJ Payne & Conway)",
+      "artist": "Benny the Butcher",
+      "has_synced": true,
+      "path": "select/11_Dirty_Harry_(feat._RJ_Payne_&_Conway)_Benny_the_Butcher.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Harry (featuring Bootie Brown and San Fernando Valley Youth Chorus)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/12_Dirty_Harry_(featuring_Bootie_Brown_and_San_Fernando_Valley_Youth_Chorus)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/13_Dirty_Harry_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dirty Harry (ft. Bootie Brown)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/14_Dirty_Harry_(ft._Bootie_Brown)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz & Bootie Brown",
+      "has_synced": true,
+      "path": "select/15_Dirty_Harry_Gorillaz_&_Bootie_Brown.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/16_Dirty_Harry_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Benny the Butcher feat. RJ Payne & Conway the Machine",
+      "has_synced": true,
+      "path": "select/17_Dirty_Harry_Benny_the_Butcher_feat._RJ_Payne_&_Conway_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/18_Dirty_Harry_Gorillaz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/pl_01_Dirty_Harry_Gorillaz.txt"
+    }
+  ]
+}
